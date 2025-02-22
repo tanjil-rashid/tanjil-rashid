@@ -35,9 +35,9 @@ I specialize in **React, Next.js, Nuxt.js, Laravel, and WordPress** development.
 
 ## 📫 Let's Connect
 - 🌐 [Website](https://attoexasolutions.com/)
-- 🐦 [Twitter](https://twitter.com/TanjilRashid)
+- 🐦 [Facebook](https://www.facebook.com/aestanjil)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanjilrashid/)
-- 📧 [Email](mailto:tanjilrashid.dev@gmail.com)
-- 🔗 [GitHub](https://github.com/TanjilRashid)
+- 📧 [Email](mailto:tanjilrashid.gm@gmail.com)
+- 🔗 [GitHub](https://github.com/tanjil-rashid)
 
 ⭐ **Fun Fact**: I’m available **24/7** for work! Feel free to collaborate. 🤝
