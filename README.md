@@ -5,7 +5,7 @@
 I specialize in **React, Next.js, Nuxt.js, Laravel, Node.js, and WordPress** development. With experience spanning from **API integrations** to **custom WordPress plugin development**, I bring a structured and problem-solving approach to projects.
 
 ## 👨‍💻 About Me
-- 💼 **Founder @ [Attoexa Solutions](https://attoexasolutions.com/)**
+- 💼 **Team Lead (Frontend | WordPress | UI/UX) @ [Attoexa Solutions](https://attoexasolutions.com/)**
 - 🎯 Passionate about **building scalable web applications** and **custom WordPress solutions**
 - 🔧 Experienced in **API (REST, SOAP), Webhooks, PostgreSQL, GitLab, and Graylog**
 - 💡 Exploring **desktop app development with JavaScript frameworks**
